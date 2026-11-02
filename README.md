@@ -1,6 +1,3 @@
-[Uploading README.md…]()
-# Project-Delivery-Packaging-Tool
-浙创OPC-Sort out the delivery files, versions, and instructions, and export the whole delivery package in one go.
 # 项目交付打包工具
 
 整理交付文件、版本和使用说明，一次导出完整交付包。

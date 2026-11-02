@@ -1,0 +1,18 @@
+{
+  "name": "delivery-pack",
+  "version": "1.0.2",
+  "description": "整理交付文件、版本和使用说明，一次导出完整交付包。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "skill"
+  ]
+}

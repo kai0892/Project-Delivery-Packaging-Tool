@@ -1,0 +1,28 @@
+{
+  "format": "opc-offline-backup",
+  "version": 1,
+  "project": "A02",
+  "data": {
+    "_files": {
+      "assets": [
+        {
+          "name": "sample-delivery.txt",
+          "type": "text/plain",
+          "size": 24,
+          "data": "data:text/plain;base64,56S65L6L5Lqk5LuY5paH5Lu277ya5bey5a6M5oiQ44CCCg=="
+        }
+      ]
+    },
+    "client": "示例客户",
+    "project": "商品图交付",
+    "version": "v1.0",
+    "instructions": "原图用于后续修改；成品图用于发布。请保留备份。",
+    "items": [
+      {
+        "file": "sample-delivery.txt",
+        "purpose": "示例交付文件",
+        "check": "文字内容完整"
+      }
+    ]
+  }
+}
